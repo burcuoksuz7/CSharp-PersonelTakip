@@ -1,2 +1,2 @@
-kullanici adi: admin ||
-kullanici sifre: 123456
+KULLANICI AD: admin 
+KULLANICI ŞİFRE: 123456
